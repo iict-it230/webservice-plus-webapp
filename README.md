@@ -9,7 +9,7 @@
 ```python
 # Helper function
 def assertEqual(test_str,fx_call):
-  if str == fx: return True
+  if test_str == fx_call: return True
   else: return False
 
 # Returns True
